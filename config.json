@@ -1,0 +1,6 @@
+{
+    "API_KEY": "botun api keyini giriniz",
+    "chat_id": "chat id giriniz",
+    "coins": ["BTC", "ETH"],
+    "delay": 8
+}
